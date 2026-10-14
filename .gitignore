@@ -1,0 +1,5 @@
+klosnowo
+*.dSYM/
+*.o
+.DS_Store
+klosnowo-demo.gif
